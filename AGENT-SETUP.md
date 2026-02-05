@@ -1,4 +1,4 @@
-# OpenClaw Agent Setup Guide (Brandon Charleson's configuration)
+# OpenClaw Agent Setup Guide
 
 Set up an OpenClaw agent on a dedicated Mac Mini with its own isolated user account.
 
